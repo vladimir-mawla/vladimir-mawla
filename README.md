@@ -3,7 +3,7 @@
 <br/>- 👀 I’m interested in web development
 <br/>-🌱 I’m currently a student at SE Factory
 <br/>-💞️ I’m looking to collaborate on cool projects
-<br/>-📫 How to reach me: 👉🏼[vladimirmawla2@gmail.com] 👉🏼[LinkedIn]   
+<br/>-📫 How to reach me: 👉🏼[Email] 👉🏼[LinkedIn]   
 
 
 
