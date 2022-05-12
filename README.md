@@ -3,8 +3,7 @@
 <br/>- 👀 I’m interested in web development
 <br/>-🌱 I’m currently a student at SE Factory
 <br/>-💞️ I’m looking to collaborate on cool projects
-<br/>-📫 How to reach me: -email: vladimirmawla2@gmail.com
-                          -[linkedin]   
+<br/>-📫 How to reach me: 👉🏼[Email] 👉🏼[linkedin]   
 
 
 
@@ -29,5 +28,5 @@
 
 
 
-
+[Email]: vladimirmawla2@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/vladimir-mawla-4a9a0b152
