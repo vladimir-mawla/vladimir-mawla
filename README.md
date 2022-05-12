@@ -25,6 +25,11 @@
 
 
   <img align="left" alt="vladimir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vladimir-mawla&show_icons=true&hide_border=true" />
+  
+ <br/>
+ <br/>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
