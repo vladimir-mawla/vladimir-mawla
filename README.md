@@ -46,11 +46,9 @@ Claude API.
 
 ### GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-mawla&layout=compact&hide_border=true&theme=default)
+![Vladimir's Stats](https://streak-stats.demolab.com?user=vladimir-mawla&hide_border=true)
 
-![Vladimir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladimir-mawla&show_icons=true&hide_border=true&theme=default)
-
-<img align="left" alt="Vladimir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vladimir-mawla&show_icons=true&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-mawla&layout=compact&hide_border=true)
 
 <br/><br/>
 
